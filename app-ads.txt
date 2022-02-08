@@ -1,4 +1,12 @@
 mopub.com, 00630c5836de412ba663036168f72445, DIRECT, 74b46c0ea83967ca
+applovin.com, e613e440a2ed050f83616204378e16e4, DIRECT
+adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+openx.com, 540785403, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+pubnative.net, 1007170, RESELLER, d641df8625486a7b
+Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
+indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8f
 rubiconproject.com, 21648, RESELLER, 0bfd66d529a55807
 ironsrc.com, 178749, Direct
 admanmedia.com, 9, RESELLER
